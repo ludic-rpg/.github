@@ -5,7 +5,7 @@ I'm crafting unique RPG experiences.
 I believe technology in RPGs often gets in the way.  
 Ludic RPG is my attempt to build tools and systems that *augment* the game, not replace it, not constrain it, but truly support the flow of play.
 
-RPGs are where humans and technology meet at the table, not to compete, but to collaborate.
+RPGs are a fun place for me to blend technology meaningfully to empower humans in this inherently social experience.
 In a time when AI is changing everything, this space feels more important than ever.
 
 <!--

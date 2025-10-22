@@ -1,4 +1,4 @@
-# Welcome to the Ludic RPG
+# Ludic RPG Manifesto
 
 I'm crafting unique RPG experiences.
 

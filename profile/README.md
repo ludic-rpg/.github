@@ -1,4 +1,6 @@
-# Ludic RPG Manifesto
+# Ludic RPG 
+
+[https://ludicrpg.com](https://ludicrpg.com)
 
 I'm crafting unique RPG experiences.
 
